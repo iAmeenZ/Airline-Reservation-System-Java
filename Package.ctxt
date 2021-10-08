@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Package
+comment1.params=n\ a\ s\ d\ aO\ am\ pT
+comment1.target=Package(java.lang.String[],\ int[],\ int[],\ java.lang.String,\ java.lang.String,\ double,\ java.lang.String)
+comment2.params=pT
+comment2.target=void\ setPackageType(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getPackageType()
+comment4.params=
+comment4.target=double\ calcPayment()
+comment5.params=
+comment5.target=java.lang.String\ print()
+numComments=6

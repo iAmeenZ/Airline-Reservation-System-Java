@@ -1,0 +1,4 @@
+A;BANGKOK;9:00AM;Economy Class;1800.00;
+B;HANOI;3:00PM;Economy Class;2800.00;
+C;MANILA;10:00PM;Economy Class;3000.00;
+
